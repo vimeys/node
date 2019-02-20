@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "a demo for node",
+  "main": "start.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "koa": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "ys",
+  "license": "ISC"
+}
